@@ -21,7 +21,7 @@ Get the best Quality of streaming performance by hosting it on VPS, here's the s
 
 ## Video 
 
-<video src='https://raw.githubusercontent.com/amanTHEBreaker/Telegram-Gemini-Chatbot/main/video.mp4' width=180/>
+<video src='https://raw.githubusercontent.com/amanTHEBreaker/Telegram-Gemini-Chatbot/main/video.mp4'/>
 
 
 ```sh
