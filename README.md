@@ -19,9 +19,6 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
 
-## Video 
-
-<video src='https://raw.githubusercontent.com/amanTHEBreaker/Telegram-Gemini-Chatbot/main/video.mp4'/>
 
 
 ```sh
