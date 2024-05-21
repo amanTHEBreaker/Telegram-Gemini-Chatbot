@@ -19,6 +19,11 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
 
+## Video 
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
+
 ```sh
 sudo apt update && apt upgrade -y
 sudo apt install git curl python3-pip ffmpeg -y
