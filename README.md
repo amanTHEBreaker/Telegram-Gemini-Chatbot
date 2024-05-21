@@ -5,7 +5,7 @@
 
 ## ✨ Features
 - Telegram Bot
-- Telegram Bot API
+- Gemini Bot
 
 ## 🛠 Commands:
 - `/start (query)` - Start
